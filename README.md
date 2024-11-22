@@ -6,10 +6,10 @@
 
 **Was ist das?**
 
-Aus Nichts wird Etwas, mit einem Klick,
-Der Code als Werkzeug, Gedanken zu fix.
-Ein Architekt der digitalen Welt,
-Wo Algorithmen Geschichten erzählen.
+Aus Nichts wird Etwas, mit einem Klick, <br>
+Der Code als Werkzeug, Gedanken zu fix.<br>
+Ein Architekt der digitalen Welt,<br>
+Wo Algorithmen Geschichten erzählen.<br>
 **Warum sollte man es verwenden?**
 
 * **Feature 1:** [Erkläre das Feature]
