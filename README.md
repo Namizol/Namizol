@@ -6,8 +6,10 @@
 
 **Was ist das?**
 
-Dieses Projekt ist eine [kurze und prägnante Beschreibung des Projekts]. Es wurde entwickelt, um [Zweck des Projekts].
-
+Aus Nichts wird Etwas, mit einem Klick,
+Der Code als Werkzeug, Gedanken zu fix.
+Ein Architekt der digitalen Welt,
+Wo Algorithmen Geschichten erzählen.
 **Warum sollte man es verwenden?**
 
 * **Feature 1:** [Erkläre das Feature]
