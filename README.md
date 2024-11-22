@@ -2,7 +2,7 @@
 
 **Wen aus Coding, Leidenschaft wird.**
 
-![465282608_8934096656634466_1036031376687060256_n](https://github.com/user-attachments/assets/44c8be18-b6e6-4abb-abf9-c5c90900f659)
+![465282608_8934096656634466_1036031376687060256_n](https://github.com/user-attachments/assets/805b280a-b99f-4649-87c6-289bf520c12c)
 
 
 
