@@ -1,6 +1,6 @@
-# Mein Super-Projekt 
+# Namizol 
 
-**Ein fantastisches Projekt, das die Welt verändern wird!**
+**Wen aus Coding, Leidenschaft wird.**
 
 [Bild eines coolen Banners]
 
