@@ -22,4 +22,4 @@ Wo Algorithmen Geschichten erzählen.<br>
 
 1. **Clone das Repository:**
    ```bash
-   git clone [ungültige URL entfernt]
+   git clone https://github.com/Namizol/Odins_Gunst_Bot.git
