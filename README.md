@@ -12,14 +12,8 @@ Der Code als Werkzeug, Gedanken zu fix.<br>
 Ein Architekt der digitalen Welt,<br>
 Wo Algorithmen Geschichten erzählen.<br>
 
-**Warum sollte man es verwenden?**
-
-* **Feature 1:** [Erkläre das Feature]
-* **Feature 2:** [Erkläre das Feature]
-* **Feature 3:** [Erkläre das Feature]
-
-**Installation:**
 
 1. **Clone das Repository:**
    ```bash
-   git clone https://github.com/Namizol/Odins_Gunst_Bot.git
+   Odins Gunst Discord Bot
+   git clone Wird eingefügt wen Fertig.
