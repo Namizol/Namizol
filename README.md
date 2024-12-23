@@ -2,7 +2,8 @@
 
 **Wen aus Coding, Leidenschaft wird.**
 
-![465282608_8934096656634466_1036031376687060256_n](https://github.com/user-attachments/assets/22b57fcb-ac70-4342-ace0-911022507685)
+![2024-04-16_01-35-42_2555](https://github.com/user-attachments/assets/824a53a3-a3d3-4470-bc3e-bf2c26becbab)
+
 
 
 **Ein Kurzes Gedicht**
