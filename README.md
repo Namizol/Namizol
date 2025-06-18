@@ -38,8 +38,8 @@ Ich bin Namizol – Pfuscher mit Fokus auf **stabile Backend-Systeme**, **modern
 
 ```bash
 # AzuraCast Docker
-[https://github.com/Namizol/azuracast_docker]
+[AzuraCast Docker](https://github.com/Namizol/azuracast_docker)
 
 # RustDesk Docker
-[https://github.com/Namizol/rustdeskt_docker]
+[RustDesk Docker](https://github.com/Namizol/rustdeskt_docker)
 
