@@ -32,4 +32,14 @@ Ich bin Namizol – Pfuscher mit Fokus auf **stabile Backend-Systeme**, **modern
 - 💬 Dialogorientierte Entwicklung mit offenem Blick für Feedback
 - 🧪 Testing & Debugging mit echten Fällen – kein Schönwetter-Code
 
+---
+
+## 🛠️ Meine Repos
+
+```bash
+# AzuraCast Docker
+[https://github.com/Namizol/azuracast_docker]
+
+# RustDesk Docker
+[https://github.com/Namizol/rustdeskt_docker]
 
