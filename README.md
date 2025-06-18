@@ -36,7 +36,7 @@ Ich bin Namizol – Pfuscher mit Fokus auf **stabile Backend-Systeme**, **modern
 
 ## 🛠️ Meine Repos
 
-```bash
+
 # AzuraCast Docker
 [AzuraCast Docker](https://github.com/Namizol/azuracast_docker)
 
